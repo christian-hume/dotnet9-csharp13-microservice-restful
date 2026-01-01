@@ -1,0 +1,6 @@
+@DotNet9.CSharp13.Microservice.Restful_HostAddress = http://localhost:5201
+
+GET {{DotNet9.CSharp13.Microservice.Restful_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
