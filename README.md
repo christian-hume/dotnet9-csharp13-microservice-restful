@@ -42,7 +42,7 @@ http://localhost:5201/csharp/actuator/health
 ## Author
 Name and contact info
 * Christian Hume (DEVs)
-* christian-developer@email.com
+* christian-hume@outlook.com
 
 ## Version
 * 1.0.0
