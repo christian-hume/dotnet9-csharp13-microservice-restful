@@ -35,19 +35,14 @@ Run file /Program.cs
 
 3.- To test if the project is running, you should access the following URL in a web browser
 ```
-http://localhost:8080/actuator/health
+http://localhost:5201/csharp/api/v1/users
+http://localhost:5201/csharp/actuator/health
 ```
 
 ## Author
 Name and contact info
 * Christian Hume (DEVs)
-* username-developer@email.com
+* christian-hume@outlook.com
 
 ## Version
 * 1.0.0
-
-
-
-
-
-https://localhost:7036/WeatherForecast
